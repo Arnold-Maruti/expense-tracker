@@ -1,5 +1,5 @@
 
-live link : https://arnold-maruti.github.io/expense-tracker/
+live link : https://expense-tracker-blond-beta.vercel.app/
 
 
 
