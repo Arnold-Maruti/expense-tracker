@@ -4,3 +4,40 @@
   margin: 0%;
   padding: 0%;
 }
+
+.Header, .MainContent{
+  margin: 15px;
+}
+
+.MainContent{
+  display: flex;
+}
+.AddForm{
+  border: 2px solid black;
+  border-radius: 25px;
+  margin:10px 20px;
+  text-align: center;
+  padding: 9px;
+}
+button,.AddForm input, input{
+  margin: 5px;
+  padding: 10px;
+}
+th{
+  color: white;
+  background-color: #ff7954;
+  width: 200px;
+  height: 50px;
+  border-radius: 35px;
+}
+.Submit{
+  color: azure;
+  background-color: #161616;
+  width: 150px;
+}
+td{
+  padding: 10px;
+  width: 100px;
+  border: 2px solid #ededed;
+  border-radius: 5px;
+}
